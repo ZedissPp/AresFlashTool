@@ -1,4 +1,6 @@
 # ARES FLASH TOOL
+<![photo_2025-10-08_14-56-33](https://github.com/user-attachments/assets/1539e7af-611a-4c4e-8b9e-f82b6cc67287)
+
 An Odin-based tool for flashing files and stock via select menu on Linux
 and others
 <h5>TELEGRAM CHAT ARESFLASHTOOL:</h5>
