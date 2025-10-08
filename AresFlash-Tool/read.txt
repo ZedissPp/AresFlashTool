@@ -1,0 +1,39 @@
+Credits:
+
+Adrilaw (Odin4)
+
+Github
+https://github.com/Adrilaw/OdinV4
+
+ZedissP (Tool)
+
+Telegram
+t.me/Zedissp
+
+Github
+https://github.com/juniorvieira19
+
+How to use - run setup and then when everything is installed, you can run the tool. (We hope so lol)
+
+remembering that the Tool works with choosing options for actions, choose the option according to its number and press enter
+
+put the stock in the "ROM" folder or the file you want to FLASH, be it twrp, vbmeta disabled etc.
+
+for full FLASHAR STOCK, rename each file abbreviated
+example:
+
+BL.tar
+AP.tar
+CP.tar
+CSC.tar
+
+remember to capitalize the first two letters!
+to FLASH twrp, kernel etc. rename your file to the format of the partition it belongs to example:
+
+twrp?
+rename to:
+AP.tar
+
+vbmeta disable?
+rename to;
+AP.tar
